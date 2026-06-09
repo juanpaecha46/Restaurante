@@ -1,4 +1,4 @@
-using RestauranteAPI.Models;
+using RestauranteAPI.Domain.Entities;
 
 namespace RestauranteAPI.Services;
 

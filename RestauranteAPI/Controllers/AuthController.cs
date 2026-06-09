@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using RestauranteAPI.Models;
+using RestauranteAPI.Domain.Entities;
 using RestauranteAPI.Services;
 
 namespace RestauranteAPI.Controllers;

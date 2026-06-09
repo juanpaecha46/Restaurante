@@ -1,4 +1,4 @@
-namespace RestauranteAPI.Models;
+namespace RestauranteAPI.Domain.Entities;
 
 public class Domicilio
 {
