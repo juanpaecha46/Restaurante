@@ -16,6 +16,7 @@ public class ApplicationDbContext : DbContext
     public DbSet<Factura> Facturas { get; set; }
     public DbSet<MedioPago> MediosPago { get; set; }
     public DbSet<Reserva> Reservas { get; set; }
+    public DbSet<Mesa> Mesas { get; set; }
     public DbSet<EstadoPedido> EstadosPedido { get; set; }
     public DbSet<Orden> Ordenes { get; set; }
     public DbSet<OrdenDetalle> OrdenDetalles { get; set; }
